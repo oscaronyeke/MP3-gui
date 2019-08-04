@@ -1,0 +1,18 @@
+file: CONTRIBUTIONS.txt
+
+// Brandon
+
+
+// Oscar
+
+Created the GUI for the Login screen and added it functionality
+created a some getters, and create methods for the data tables
+created the read me
+created some of the dummy test for the getters and create methods for the data tables.
+
+
+// Luke
+
+Responsible for creating the UI of the project
+Created the entire presentation and filled in the majority of it's content
+Helped write code for each Node section file
